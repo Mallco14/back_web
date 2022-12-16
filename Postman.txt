@@ -1,0 +1,7 @@
+{
+  "name": "Nikola Tesla22",
+  "age": 70,
+  "email": "n222ikolatesla@email.com",
+  "profesion":"Bombero",
+  "numero":98745874
+}
